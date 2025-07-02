@@ -1,0 +1,62 @@
+[
+  {
+    "Title": "The Hunger Games",
+    "Author": "Suzanne Collins",
+    "ISBN": "001",
+    "Available": true
+  },
+  {
+    "Title": "The Fault in Our Stars",
+    "Author": "John Green",
+    "ISBN": "002",
+    "Available": true
+  },
+  {
+    "Title": "Gone Girl",
+    "Author": "Gillian Flynn",
+    "ISBN": "003",
+    "Available": true
+  },
+  {
+    "Title": "A Court of Thorns and Roses",
+    "Author": "Sarah J. Maas",
+    "ISBN": "004",
+    "Available": true
+  },
+  {
+    "Title": "The Midnight Library",
+    "Author": "Matt Haig",
+    "ISBN": "005",
+    "Available": true
+  },
+  {
+    "Title": "The invisible Life",
+    "Author": "V. E. Schwab",
+    "ISBN": "006",
+    "Available": true
+  },
+  {
+    "Title": "Where the Crawdads Sing",
+    "Author": "Delia Owens",
+    "ISBN": "007",
+    "Available": true
+  },
+  {
+    "Title": "It Ends With Us",
+    "Author": "Colleen Hoover",
+    "ISBN": "008",
+    "Available": true
+  },
+  {
+    "Title": "Daisy Jones \u0026 The Six",
+    "Author": "Taylor Jenkins Reid",
+    "ISBN": "009",
+    "Available": true
+  },
+  {
+    "Title": "The Seven Husbands of Evelyn Hugo",
+    "Author": "Taylor Jenkins Reid",
+    "ISBN": "010",
+    "Available": true
+  }
+]

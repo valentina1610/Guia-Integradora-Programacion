@@ -1,0 +1,28 @@
+[
+  {
+    "Book": {
+      "Title": "Pride and Prejudice",
+      "Author": "Jane Austen",
+      "ISBN": "099",
+      "Available": false
+    },
+    "User": {
+      "Name": "valentina",
+      "Email": "valentinaolmosoo@gmail.com"
+    },
+    "Date": "2025-07-02T17:01:22.3674752-03:00"
+  },
+  {
+    "Book": {
+      "Title": "Little Women",
+      "Author": "Louisa May Alcott",
+      "ISBN": "011",
+      "Available": false
+    },
+    "User": {
+      "Name": "pepito",
+      "Email": "pepito@gmail.com"
+    },
+    "Date": "2025-07-02T17:21:29.4152013-03:00"
+  }
+]
