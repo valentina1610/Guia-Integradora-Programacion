@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Martillo",
+    "Id": 1,
+    "Price": 900,
+    "Stock": 6
+  },
+  {
+    "Name": "Pala",
+    "Id": 2,
+    "Price": 870,
+    "Stock": 55
+  },
+  {
+    "Name": "Tornillos",
+    "Id": 3,
+    "Price": 99,
+    "Stock": 500
+  }
+]
